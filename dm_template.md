@@ -6,9 +6,9 @@
 >
 > I built you a tool. Voice profile, hook grader, drafter — running on your own posts. Built on Claude because you recommend Claude.
 >
-> Loom (3 min): [LOOM LINK]
-> Live demo: [VERCEL LINK]
-> Repo: [GITHUB LINK]
+> Loom (3 min): [LOOM LINK — record and paste]
+> Live demo: https://dealroom-post-engine-saif-shaikh-s-projects.vercel.app
+> Repo: https://github.com/saiffshaikhh/dealroom-post-engine
 >
 > 25 hooks graded. 5 drafts in your voice. Top hook scored 28/30 — "2M impressions, one meeting. 4,000 impressions, $240K in pipeline. Here's the six-word difference."
 >
@@ -29,9 +29,9 @@
 >
 > It reverse-engineers your voice from your posts, podcast, and Medium. It grades hooks on your formula — emotion, value, credibility — and drafts full posts your writers can ship in your clients' voices. Runs on Claude.
 >
-> Loom (3 min): [LOOM LINK]
-> Live demo: [VERCEL LINK]
-> Repo: [GITHUB LINK]
+> Loom (3 min): [LOOM LINK — record and paste]
+> Live demo: https://dealroom-post-engine-saif-shaikh-s-projects.vercel.app
+> Repo: https://github.com/saiffshaikhh/dealroom-post-engine
 >
 > 25 hooks graded. 18 ship, 7 rewrite, 0 kill. Top hook 28/30. The three question post for Bianca is in the draft deck.
 >

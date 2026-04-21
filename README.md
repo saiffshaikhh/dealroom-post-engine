@@ -38,7 +38,8 @@ README.md                   — this file
 
 ## Run it
 
-Open `index.html` in Chrome. Everything is embedded.
+- Live demo: https://dealroom-post-engine-saif-shaikh-s-projects.vercel.app
+- Or open `index.html` locally in Chrome — everything is embedded.
 
 ## Extend it (live version)
 
