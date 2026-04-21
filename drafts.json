@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-04-21",
+  "voice_profile_ref": "voice_profile.json",
+  "drafts": [
+    {
+      "idea_id": 1,
+      "hook_id": "1.1",
+      "hook": "LinkedIn told me this post reached 400,000 people. 312 of them sent a message. 8 of them sent something they built. That's the actual hiring funnel.",
+      "body": "LinkedIn told me this post reached 400,000 people. 312 of them sent a message. 8 of them sent something they built. That's the actual hiring funnel.\n\nLast week I posted that I'm giving a Rolex to the next person I hire.\n\nHere's what the inbox looked like by morning:\n\n- 400,000 impressions\n- 312 DMs\n- 47 cover letters pasted in-line\n- 6 'hey can we hop on a call' messages\n- 2 emoji reactions with nothing attached\n- 8 people who built something\n\nThat's a 2.5% ratio of DMs to builds. The other 97.5% wrote me a version of: 'I'd love to chat.'\n\nOne person sent a Loom at 3 AM showing a working tool they built on their own LinkedIn the night they saw my post.\n\nAnother sent a spreadsheet reverse-engineering 50 of my client's posts with scored hooks.\n\nAnother shipped a Chrome extension. In 14 hours.\n\nNone of them asked for a call. None of them attached a resume. None of them used the word 'passionate.'\n\nThey shipped.\n\nThat's the whole filter. The Rolex was never the incentive — it was the test. If the reward isn't enough to make you build something in 48 hours, you were never going to outwork the last person we hired.\n\nTo the 8: your inbox will have a reply by end of day.\n\nTo the 312: try again on the next post. The filter hasn't moved.",
+      "word_count": 252,
+      "icp_target": "founders",
+      "icp_reasoning": "Meta hiring-funnel post that reaches every founder who's ever posted a job and drowned in low-effort inbox. Pipeline-relevant for recruiting-heavy buyers.",
+      "voice_fidelity_self_score": 9,
+      "voice_fidelity_notes": "Fragment rhythm, negation triad, attribution-flip at close, specific-number ladder, contrarian closing. Only soft spot: could use one more named-person anchor."
+    },
+    {
+      "idea_id": 2,
+      "hook_id": "2.4",
+      "hook": "$2M in pipeline from 3,000 followers. $0 in pipeline from 200,000. One line of copy explains the difference.",
+      "body": "$2M in pipeline from 3,000 followers. $0 in pipeline from 200,000. One line of copy explains the difference.\n\nTwo founders signed with Dealroom last quarter. Same stage. Same ARR band. Same vertical. Both backed by tier-1 VCs.\n\nFounder A: 3,247 LinkedIn followers. Three posts a month. $2M in new pipeline in 90 days.\n\nFounder B: 212,000 LinkedIn followers. Daily posts. $0 in new pipeline in 90 days.\n\nFounder B got more impressions on one post than Founder A got in a year.\n\nHere's the line that explains it.\n\nFounder A wrote: 'This is the 11-question diligence framework we ran before our Series B — stealing it from our lead investor.'\n\nFounder B wrote: 'What I learned building a company in my 20s.'\n\nFounder A optimized for 40 people at 12 funds.\n\nFounder B optimized for everyone on LinkedIn.\n\nThere are exactly 40 people who can write Founder A a check. When those 40 see his post, they forward it to their partners. The 3,000 followers are 2,960 friends plus 40 buyers.\n\nFounder B's 212,000 followers are 211,960 people who will never pay him a dollar, plus 40 buyers who scrolled past him because his post sounded like every other post.\n\nImpressions are a vanity metric. The question is never how many saw it. It's how many of the 40 did — and whether they forwarded it.\n\nStop optimizing for your whole industry. Start optimizing for your 40.",
+      "word_count": 249,
+      "icp_target": "founders",
+      "icp_reasoning": "Direct pipeline framing for any founder considering ghostwriting. Reads as a thesis piece that qualifies inbound — vanity-chasers self-select out.",
+      "voice_fidelity_self_score": 10,
+      "voice_fidelity_notes": "Hook-to-closing is Shamus's signature anti-vanity thesis. Stop X/Start Y closing, named framework reference, numerical-specificity religion, tier-1 VC anchor. Highest-fidelity draft in the deck."
+    },
+    {
+      "idea_id": 3,
+      "hook_id": "3.1",
+      "hook": "LinkedIn's algorithm handed one of my posts 2M impressions last month. One meeting. Another post got 4,000 impressions. $240K in pipeline. Here's the six-word difference.",
+      "body": "LinkedIn's algorithm handed one of my posts 2M impressions last month. One meeting. Another post got 4,000 impressions. $240K in pipeline. Here's the six-word difference.\n\nThe 2M-impression post opened: 'Most founders don't understand LinkedIn.'\n\nThe 4,000-impression post opened: 'We just closed $240K from this post.'\n\nSix words. That's the entire gap.\n\nThe first was written for everyone on LinkedIn. The second was written for CFOs who had read the post it referred to.\n\nPost one got 2 million scroll-throughs from people who would never buy. Post two got 4,000 scroll-throughs, 38 saves, 11 DMs, and 3 meetings — one of which turned into $240K in closed business.\n\nHere's the thing nobody writing LinkedIn content wants to hear.\n\nEmotion, value, and credibility are the three axes of a good hook. Most writers nail emotion. A few get value. Almost nobody builds credibility in the first line.\n\n'Most founders don't understand LinkedIn' is emotion. No value, no credibility.\n\n'We just closed $240K from this post' is all three in one sentence.\n\nThe first got the algorithm. The second got the money.\n\nYou can optimize for impressions or you can optimize for pipeline. The writers who figure out you can't do both in the same post are the ones who end up writing for billion-dollar companies.\n\nWrite to be scrolled past by the wrong people.",
+      "word_count": 231,
+      "icp_target": "operators",
+      "icp_reasoning": "Aimed at content operators/writers who are potential referrals or future hires. Secondary pipeline: CEOs who recognize the framework.",
+      "voice_fidelity_self_score": 9,
+      "voice_fidelity_notes": "Hook-formula meta (using his own formula to explain his own formula). Fragment rhythm, 'Here's the thing' pivot, counter-conventional closing. Slightly more didactic than average Shamus."
+    },
+    {
+      "idea_id": 4,
+      "hook_id": "4.4",
+      "hook": "90 seconds. 3 questions. 1 hire.",
+      "body": "90 seconds. 3 questions. 1 hire.\n\nThat's how I hired Bianca.\n\nShe DMd me at 11 PM from Boston. Her message was 90 words long and included a resume I'd never seen from a 22-year-old.\n\nI called her at 11:04 PM.\n\nHere are the three questions I asked:\n\n1. 'What's the hardest thing you've ever shipped?'\n2. 'Can you be in New York by Wednesday?'\n3. 'Do you want this enough to say yes before we've talked about money?'\n\nShe answered the first two in about 40 seconds. She said yes to the third before I finished the question.\n\n90 seconds in, I offered her the job. 48 hours later she was writing her first post for a Sequoia-backed CEO from the gym.\n\nThe three questions look simple. They're not. Each one is a filter.\n\nQuestion one separates builders from talkers. Talkers describe what they'd do. Builders describe what they shipped, with a number attached.\n\nQuestion two separates people who want to work from people who want a job. The ones who want a job need two weeks' notice and a relocation package. The ones who want to work are already packing.\n\nQuestion three separates people who know what they want from people who are still shopping. The second you start negotiating before you've said yes, you've revealed you had a better offer to compare it to.\n\nYou don't need a degree. You don't need years of experience. You need to answer three questions in 90 seconds without flinching.\n\nBianca's been here 14 months. She writes for founders who run companies with a combined valuation north of $3 billion.\n\nNone of that happened because she had a resume. It happened because she flinched at nothing.",
+      "word_count": 293,
+      "icp_target": "founders",
+      "icp_reasoning": "Hiring-pain post for founders running lean teams. Also high-appeal to aspirational operators looking to apply — which is the exact audience currently in Shamus's inbox.",
+      "voice_fidelity_self_score": 10,
+      "voice_fidelity_notes": "Fragment ladder hook, numbered framework, negation triad mirror ('don't need a degree' echoes Rolex post), attribution-flip close ('flinched at nothing'), named subject. Could sit next to the Rolex post as a companion."
+    },
+    {
+      "idea_id": 5,
+      "hook_id": "5.4",
+      "hook": "$1.5M ARR. 5 writers. 12 CEOs. The system fits on one screen.",
+      "body": "$1.5M ARR. 5 writers. 12 CEOs. The system fits on one screen.\n\nEveryone asks how we write LinkedIn posts for founders backed by a16z, Sequoia, Marc Benioff, and Kevin Durant without a 40-person content team.\n\nThe answer is three files per client.\n\nFile one: the voice profile. 20 of the client's past posts go in. A structured document comes out — their signature phrases, their hook patterns, the words they never use, the topics that hit, the clients they're actually trying to reach. Every writer on our team can pick up any client and ship a post in their voice without calling me.\n\nFile two: the hook grader. Every draft gets scored on three axes before it hits the client: emotion, value, credibility. Any hook under a 21 gets rewritten before the client ever sees it. It's faster than feedback. It's faster than taste.\n\nFile three: the ICP sheet. Every post has a tag — is this written for pipeline, or is this written for vanity? Vanity posts get killed before they're drafted. We don't care if a post goes viral. We care if 40 of the right people read it and one of them books a call.\n\nThat's the stack.\n\n5 writers. 3 files per client. One tool that scores the hook before the client's inbox does.\n\nWe don't have a CMS. We don't use ChatGPT. We use Claude because Claude is better at voice.\n\nA lot of agencies will tell you scaling is about process. It's not. Process is what you run after you've built a spine.\n\nThe spine is the voice profile. Everything else is just execution speed.",
+      "word_count": 277,
+      "icp_target": "founders",
+      "icp_reasoning": "Demonstrates the exact product Dealroom would sell to a prospect. Reads as a thesis post that other ghostwriters will quote — generates inbound from both clients and talent.",
+      "voice_fidelity_self_score": 10,
+      "voice_fidelity_notes": "Verbatim client-stack quote, numbered-file reveal, Claude-over-ChatGPT signature opinion, process-vs-spine contrarian closing. Doubles as the thesis post the Loom demo itself embodies."
+    }
+  ],
+  "deck_summary": {
+    "total_drafts": 5,
+    "average_word_count": 260,
+    "icp_targets": {"founders": 4, "operators": 1, "vanity": 0},
+    "average_voice_fidelity": 9.6
+  }
+}

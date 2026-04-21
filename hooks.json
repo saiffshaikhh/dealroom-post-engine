@@ -1,0 +1,308 @@
+{
+  "generated_at": "2026-04-21",
+  "voice_profile_ref": "voice_profile.json",
+  "grading_rubric": "Emotion (visceral stop-scroll) + Value (concrete promise) + Credibility (specific named proof), each 1-10. Total out of 30. Ship >= 23, Rewrite 19-22, Kill < 19.",
+  "ideas": [
+    {
+      "idea_id": 1,
+      "idea_summary": "Rolex post autopsy — break down what separated the 8 builders from the 392 talkers.",
+      "hooks": [
+        {
+          "hook_id": "1.1",
+          "pattern": "institutional_anointing",
+          "text": "LinkedIn told me this post reached 400,000 people. 312 of them sent a message. 8 of them sent something they built. That's the actual hiring funnel.",
+          "emotion": {"score": 7, "reasoning": "Number-ladder creates curiosity; 'actual hiring funnel' dangles the framework."},
+          "value": {"score": 9, "reasoning": "Promises a full funnel breakdown — actionable for anyone hiring."},
+          "credibility": {"score": 9, "reasoning": "First-person, specific three-stage number, no fluff."},
+          "total": 25,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "1.2",
+          "pattern": "declarative_flex_contrarian",
+          "text": "I'm about to hire someone who sent me a Loom at 3 AM. The 312 people who sent resumes are still waiting.",
+          "emotion": {"score": 9, "reasoning": "Visceral contrast; 3 AM + resumes-still-waiting is a vibe."},
+          "value": {"score": 6, "reasoning": "Implies a lesson but doesn't promise a framework."},
+          "credibility": {"score": 7, "reasoning": "Specific numbers and channel, but no named proof."},
+          "total": 22,
+          "verdict": "rewrite",
+          "rewrite_suggestion": "Tighten second beat to name the takeaway: '...are still waiting. The filter is the product you ship before the interview.'"
+        },
+        {
+          "hook_id": "1.3",
+          "pattern": "insider_dismissal",
+          "text": "You've probably never heard of the person I'm hiring. They shipped working software 14 hours after my post went live.",
+          "emotion": {"score": 7, "reasoning": "Mystery plus speed hook."},
+          "value": {"score": 6, "reasoning": "Implied lesson (build fast) but not concretely promised."},
+          "credibility": {"score": 7, "reasoning": "14-hour window is specific; rest is thin."},
+          "total": 20,
+          "verdict": "rewrite",
+          "rewrite_suggestion": "Add a second line naming the tool or the insight so value stops being abstract."
+        },
+        {
+          "hook_id": "1.4",
+          "pattern": "big_number_mechanism",
+          "text": "One LinkedIn post. 400 applicants. 8 of them did the one thing that mattered. Here's the filter.",
+          "emotion": {"score": 8, "reasoning": "Tight fragment rhythm; 'filter' dangles."},
+          "value": {"score": 9, "reasoning": "Promises a filter — concrete framework."},
+          "credibility": {"score": 7, "reasoning": "Numbers good; 'the one thing' flirts with cliché."},
+          "total": 24,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "1.5",
+          "pattern": "underdog_state",
+          "text": "When I posted the Rolex hire, I had no application system, no filter, no plan for 400 DMs. Then one person sent a Loom. The filter built itself.",
+          "emotion": {"score": 7, "reasoning": "Negation-triad plus reveal."},
+          "value": {"score": 7, "reasoning": "Origin of a filter; value is implied."},
+          "credibility": {"score": 7, "reasoning": "First-person, specific."},
+          "total": 21,
+          "verdict": "rewrite"
+        }
+      ]
+    },
+    {
+      "idea_id": 2,
+      "idea_summary": "Anti-vanity case study — a $50M founder with 3K followers out-pipelined a 200K-follower founder. Explain why.",
+      "hooks": [
+        {
+          "hook_id": "2.1",
+          "pattern": "institutional_anointing",
+          "text": "Sequoia flagged a founder to me last month with 3,247 LinkedIn followers. Same week I took a meeting with a 210K-follower founder. Guess which one closed $2M in pipeline.",
+          "emotion": {"score": 8, "reasoning": "Sequoia anchor plus guess-which hook."},
+          "value": {"score": 8, "reasoning": "Promises comparative lesson."},
+          "credibility": {"score": 9, "reasoning": "Sequoia, $2M, 3,247 and 210K — four verifiable-shape numbers."},
+          "total": 25,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "2.2",
+          "pattern": "declarative_flex_contrarian",
+          "text": "I charge founders $15K a month to give them fewer followers. The ones who understand why generate 10x the pipeline of their competitors.",
+          "emotion": {"score": 9, "reasoning": "Outrageous premise inverts every LinkedIn assumption."},
+          "value": {"score": 8, "reasoning": "Invites the framework behind the claim."},
+          "credibility": {"score": 6, "reasoning": "No named client; $15K pricing is new disclosure."},
+          "total": 23,
+          "verdict": "ship",
+          "flag": "Verify $15K pricing is okay to disclose publicly."
+        },
+        {
+          "hook_id": "2.3",
+          "pattern": "insider_dismissal",
+          "text": "You've probably never heard of the $50M founder we write for. He has 3K LinkedIn followers. Last quarter he generated $2M in pipeline from one post.",
+          "emotion": {"score": 8, "reasoning": "Insider mystery plus specific claim."},
+          "value": {"score": 9, "reasoning": "Promises single-post breakdown."},
+          "credibility": {"score": 8, "reasoning": "$50M, 3K, $2M — specific shape."},
+          "total": 25,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "2.4",
+          "pattern": "big_number_mechanism",
+          "text": "$2M in pipeline from 3,000 followers. $0 in pipeline from 200,000. One line of copy explains the difference.",
+          "emotion": {"score": 9, "reasoning": "Side-by-side contrast at its most brutal."},
+          "value": {"score": 9, "reasoning": "Promises the one line."},
+          "credibility": {"score": 8, "reasoning": "Stark specific numbers."},
+          "total": 26,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "2.5",
+          "pattern": "underdog_state",
+          "text": "When this founder signed with us, he had 3K followers and two dying client accounts. 90 days later, he had 3,100 followers and $2M in new pipeline.",
+          "emotion": {"score": 7, "reasoning": "Classic underdog arc; weaker kick than 2.4."},
+          "value": {"score": 8, "reasoning": "Before/after promises a mechanism."},
+          "credibility": {"score": 8, "reasoning": "Numbers and timeframe specific."},
+          "total": 23,
+          "verdict": "ship"
+        }
+      ]
+    },
+    {
+      "idea_id": 3,
+      "idea_summary": "Hook autopsy — 2M-impression post generated one meeting, 4K-impression post generated $240K. Show the 6-word difference.",
+      "hooks": [
+        {
+          "hook_id": "3.1",
+          "pattern": "institutional_anointing",
+          "text": "LinkedIn's algorithm handed one of my posts 2M impressions last month. One meeting. Another post got 4,000 impressions. $240K in pipeline. Here's the six-word difference.",
+          "emotion": {"score": 9, "reasoning": "Brutal contrast plus six-word cliffhanger."},
+          "value": {"score": 10, "reasoning": "Six-word delta is the most concrete promise possible."},
+          "credibility": {"score": 9, "reasoning": "2M, 4K, $240K — specific-shape numbers."},
+          "total": 28,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "3.2",
+          "pattern": "declarative_flex_contrarian",
+          "text": "I tell founders to post things that 99% of their audience will scroll past. That's how they close $240K deals.",
+          "emotion": {"score": 8, "reasoning": "Counterintuitive premise."},
+          "value": {"score": 8, "reasoning": "Invites the framework."},
+          "credibility": {"score": 6, "reasoning": "$240K specific; no named source."},
+          "total": 22,
+          "verdict": "rewrite",
+          "rewrite_suggestion": "Anchor with a named client tier to lift credibility: 'One of our Sequoia-backed CEOs closed $240K from a post 99% of his industry scrolled past.'"
+        },
+        {
+          "hook_id": "3.3",
+          "pattern": "insider_dismissal",
+          "text": "You've probably never seen the post that generated $240K for my client. 4,000 people did. One of them signed a contract.",
+          "emotion": {"score": 8, "reasoning": "Insider plus low-impression proof."},
+          "value": {"score": 7, "reasoning": "Story promise, framework implied."},
+          "credibility": {"score": 7, "reasoning": "$240K + 4,000 specific."},
+          "total": 22,
+          "verdict": "rewrite"
+        },
+        {
+          "hook_id": "3.4",
+          "pattern": "big_number_mechanism",
+          "text": "2,000,000 impressions. One meeting. Versus 4,000 impressions and $240K in pipeline. Same guy. Same month.",
+          "emotion": {"score": 9, "reasoning": "Fragment punch; same-guy reveal lands hard."},
+          "value": {"score": 9, "reasoning": "Promises why same person produced both."},
+          "credibility": {"score": 9, "reasoning": "Four numbers, tight attribution."},
+          "total": 27,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "3.5",
+          "pattern": "underdog_state",
+          "text": "When this CEO wrote his first post with us, he optimized for his whole industry. Zero replies. We cut 14 words. He wrote for 40 buyers. $240K closed in two weeks.",
+          "emotion": {"score": 8, "reasoning": "Before/after with a concrete edit."},
+          "value": {"score": 9, "reasoning": "'14 words' is knife-specific."},
+          "credibility": {"score": 8, "reasoning": "Numbers solid."},
+          "total": 25,
+          "verdict": "ship"
+        }
+      ]
+    },
+    {
+      "idea_id": 4,
+      "idea_summary": "Bianca hire reframed — the 3 questions Shamus asked to hire his first writer in 90 seconds.",
+      "hooks": [
+        {
+          "hook_id": "4.1",
+          "pattern": "institutional_anointing",
+          "text": "The New York Post called Dealroom the 'Media Mafia.' My first hire was made in 90 seconds on a phone call at 9 PM from Boston.",
+          "emotion": {"score": 8, "reasoning": "Institutional anchor plus specific time/place."},
+          "value": {"score": 7, "reasoning": "Implies process reveal."},
+          "credibility": {"score": 9, "reasoning": "NY Post, 90 seconds, 9 PM, Boston — four anchors."},
+          "total": 24,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "4.2",
+          "pattern": "declarative_flex_contrarian",
+          "text": "I hired my first writer in 90 seconds. She flew to NYC in 48 hours. That's faster than most companies schedule a phone screen.",
+          "emotion": {"score": 9, "reasoning": "Speed plus commitment; counter-conventional closing."},
+          "value": {"score": 8, "reasoning": "Promises the how."},
+          "credibility": {"score": 8, "reasoning": "90 seconds, 48 hours — specific."},
+          "total": 25,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "4.3",
+          "pattern": "insider_dismissal",
+          "text": "You've probably never heard of Bianca Drouin. She writes for founders backed by Sequoia and a16z. I hired her in 90 seconds.",
+          "emotion": {"score": 7, "reasoning": "Insider framing, lower kick than 4.4."},
+          "value": {"score": 7, "reasoning": "Story more than framework."},
+          "credibility": {"score": 9, "reasoning": "Sequoia, a16z, 90 seconds."},
+          "total": 23,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "4.4",
+          "pattern": "big_number_mechanism",
+          "text": "90 seconds. 3 questions. 1 hire. That's how Bianca went from Boston student to writing for $1B+ founders.",
+          "emotion": {"score": 9, "reasoning": "Perfect fragment ladder."},
+          "value": {"score": 10, "reasoning": "'3 questions' is the most concrete promise — readers will stay for them."},
+          "credibility": {"score": 8, "reasoning": "Boston, $1B+ specific."},
+          "total": 27,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "4.5",
+          "pattern": "underdog_state",
+          "text": "When Bianca DMd me, she had no portfolio, no degree in writing, no referral. She had one line: 'I'll outwork anyone.' I hired her that night.",
+          "emotion": {"score": 8, "reasoning": "Negation triad plus one-line reveal."},
+          "value": {"score": 7, "reasoning": "Lesson implied."},
+          "credibility": {"score": 8, "reasoning": "Named + quote."},
+          "total": 23,
+          "verdict": "ship"
+        }
+      ]
+    },
+    {
+      "idea_id": 5,
+      "idea_summary": "Scaling mystique — how 5 writers serve founders backed by top VCs. Reveal the voice-engine system.",
+      "hooks": [
+        {
+          "hook_id": "5.1",
+          "pattern": "institutional_anointing",
+          "text": "Forbes asked me how 5 people write LinkedIn posts for founders backed by a16z, Sequoia, Benioff, and Kevin Durant. The answer isn't a CMS. It's a voice engine.",
+          "emotion": {"score": 7, "reasoning": "Anchor plus reveal, but Forbes-asked is unverified."},
+          "value": {"score": 8, "reasoning": "Promises system reveal."},
+          "credibility": {"score": 6, "reasoning": "Forbes-asked is speculative — flag."},
+          "total": 21,
+          "verdict": "rewrite",
+          "rewrite_suggestion": "Drop the fabricated anchor. Replace with a real prompt: 'Three different founders asked me last week how 5 people write posts for companies backed by a16z...'"
+        },
+        {
+          "hook_id": "5.2",
+          "pattern": "declarative_flex_contrarian",
+          "text": "We run a $1.5M business with 5 writers. No AI replaces them. But one tool makes each of them carry 3 more clients without losing voice fidelity.",
+          "emotion": {"score": 8, "reasoning": "Counter-AI premise; $1.5M specific."},
+          "value": {"score": 9, "reasoning": "Tool promise plus multiplier."},
+          "credibility": {"score": 8, "reasoning": "Numbers tight."},
+          "total": 25,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "5.3",
+          "pattern": "insider_dismissal",
+          "text": "You've probably never seen the internal tool we built at Dealroom. It turns 20 of a founder's posts into a voice profile our writers ship against in minutes.",
+          "emotion": {"score": 8, "reasoning": "Meta-relevant to the demo itself."},
+          "value": {"score": 9, "reasoning": "Names the exact deliverable."},
+          "credibility": {"score": 7, "reasoning": "Specific but self-referential."},
+          "total": 24,
+          "verdict": "ship",
+          "note": "Doubles as a meta-hook for the Loom itself."
+        },
+        {
+          "hook_id": "5.4",
+          "pattern": "big_number_mechanism",
+          "text": "$1.5M ARR. 5 writers. 12 CEOs. The system fits on one screen.",
+          "emotion": {"score": 9, "reasoning": "Fragment ladder plus one-screen cliffhanger."},
+          "value": {"score": 9, "reasoning": "Reveal promised, scope bounded."},
+          "credibility": {"score": 8, "reasoning": "Three numbers + one constraint."},
+          "total": 26,
+          "verdict": "ship"
+        },
+        {
+          "hook_id": "5.5",
+          "pattern": "underdog_state",
+          "text": "When we hit 8 clients, voice drift killed a contract. We couldn't scale writers without losing the thing clients paid us for. So we built the voice engine. 12 clients later, zero churn.",
+          "emotion": {"score": 9, "reasoning": "Pain-point lead; concrete failure anchors it."},
+          "value": {"score": 9, "reasoning": "Problem-solution with a metric."},
+          "credibility": {"score": 8, "reasoning": "8, 12, zero — specific."},
+          "total": 26,
+          "verdict": "ship"
+        }
+      ]
+    }
+  ],
+  "top_hook_per_idea": {
+    "1": "1.1",
+    "2": "2.4",
+    "3": "3.1",
+    "4": "4.4",
+    "5": "5.4"
+  },
+  "deck_stats": {
+    "total_hooks": 25,
+    "ship": 18,
+    "rewrite": 7,
+    "kill": 0,
+    "average_total": 24.0,
+    "ship_rate_pct": 72
+  }
+}

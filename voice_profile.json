@@ -1,0 +1,227 @@
+{
+  "subject": "Shamus Madan",
+  "company": "Dealroom Media",
+  "generated_at": "2026-04-21",
+  "corpus": {
+    "linkedin_posts_analyzed": 3,
+    "posts": ["rolex_hire", "media_mafia_ny_post", "jake_sacks_gatsby"],
+    "supplemental_sources": [
+      "dealroompodcast.com episode titles (Clock Speed / The Dealroom)",
+      "medium.com/@shamusmadan article titles and subtitles",
+      "media-dealroom.beehiiv.com newsletter hook",
+      "dealroom.media tagline"
+    ],
+    "note": "LinkedIn corpus is thin (3 posts). Profile is calibrated for Shamus's personal voice across channels, not just LinkedIn. Engine re-runs cleanly when more posts are pasted."
+  },
+
+  "tone_axes": {
+    "formal_to_casual": {
+      "score": 2,
+      "direction": "casual",
+      "evidence": "DMd me on LinkedIn / sweaty gym clothes / out of nowhere / something your parents would hate / insane rules / sex chocolate"
+    },
+    "cerebral_to_visceral": {
+      "score": 8.5,
+      "direction": "visceral",
+      "evidence": "phones blow up with inbound / exploded to $2M+ ARR / 3 feet apart every day / in the trenches / sweaty gym clothes"
+    },
+    "humble_to_flex": {
+      "score": 7,
+      "direction": "flex, attribution-flipped to proximity/hustle",
+      "evidence": "Big-scale claims ($20M/Yr, a16z/Sequoia/Benioff/Durant roster) consistently re-attributed: 'None of this happened because I got smarter. It happened because of who I was sitting next to.' Self-entries use deflation markers: 'And then me.'"
+    },
+    "abstract_to_concrete": {
+      "score": 9.5,
+      "direction": "concrete",
+      "evidence": "3 feet apart / West Side Highway / 36-person dinners / 5-course meal / $20K month one, $40K month two / specificity is the dopamine"
+    },
+    "narrative_to_listicle": {
+      "score": 4,
+      "direction": "leans narrative with embedded metric bursts",
+      "evidence": "Stories with dollar-number ladders; bullets used sparingly (only in Jake Sacks 'three insane rules'); never '5 tips to...'"
+    }
+  },
+
+  "hook_patterns": [
+    {
+      "name": "Institutional anointing + surprising context",
+      "structure": "[Named media/institution] just called us [label]. We [specific achievement] while [unexpected setting].",
+      "example": "The New York Post just called us the 'Media Mafia.' We collectively make $20M/Yr in our early 20s working out of a gym."
+    },
+    {
+      "name": "Declarative flex + contrarian payoff",
+      "structure": "I'm [bold action]. The [object/job] is something [conventional authority] would hate.",
+      "example": "I'm giving a Rolex to the next person I hire. The job is something your parents would hate."
+    },
+    {
+      "name": "Insider dismissal + institutional validation",
+      "structure": "You've probably never heard of [subject]. [Institution] just called them [audacious label].",
+      "example": "You've probably never heard of this guy standing next to me. He was just called the next Gatsby by the New York Post."
+    },
+    {
+      "name": "Big number + timeframe + mechanism",
+      "structure": "How [person] turned [small number] into [big number] [surprising constraint/channel]",
+      "example": "$500 Into A $1.93B Empire / $30M in 48 Days / $100k/Month From His Laptop / -$100k Into $575 Million Selling Mattresses"
+    },
+    {
+      "name": "Underdog-state opener",
+      "structure": "When I [life-state change], I had [negation-triad — no X, no Y, no Z].",
+      "example": "When I moved to New York, my company was doing $8K/month with no profit. I had no office, no connections, and no idea what I was doing."
+    }
+  ],
+
+  "signature_phrases": [
+    "out of nowhere",
+    "mark my words",
+    "fast forward [N years/months]",
+    "none of this happened because [X]. It happened because [proximity/hustle]",
+    "backed by a16z, Sequoia, Marc Benioff, and Kevin Durant",
+    "in the trenches",
+    "blew up / blow up with inbound / exploded",
+    "3 feet apart every day",
+    "sounds delusional until you realize",
+    "all young, all at the same table",
+    "who I was sitting next to / this guy standing next to me",
+    "billion-dollar companies / billionaire entrepreneurs",
+    "pipeline and virality",
+    "And then me.",
+    "P.S."
+  ],
+
+  "numerical_hook_density": {
+    "linkedin_posts_leading_with_number_pct": 33,
+    "linkedin_posts_with_number_in_first_3_lines_pct": 100,
+    "podcast_and_newsletter_titles_leading_with_number_pct": 85,
+    "note": "LinkedIn opens often use institutional/insider framing, but a specific number always lands within 2-3 lines. Podcast and newsletter titles lean hard on $-amount leads. Number-density is the single most consistent voice marker across channels."
+  },
+
+  "sentence_rhythm": {
+    "average_sentence_length_words": 13,
+    "variance": "high — ranges from 2-word fragments ('Day one.') to 30+ word layered sentences",
+    "short_sentence_frequency_pct": 35,
+    "dominant_pattern": "Long context sentence → fragment burst for emphasis → return to narrative. Fragments cluster in metric-reveals and claim-stacks.",
+    "paragraphs": "one-sentence paragraphs dominate; heavy blank-line separation between thoughts"
+  },
+
+  "openings": [
+    "Institutional validation: 'The New York Post just called us...'",
+    "Declarative flex + contrarian twist: 'I'm giving a Rolex...'",
+    "Insider framing / dismissal: 'You've probably never heard of this guy...'",
+    "Origin-state underdog: 'When I moved to New York, my company was doing $8K/month...'",
+    "Person-introduction + audacious claim: '[Name] arrived at [place] from [small place], knowing absolutely no one.'"
+  ],
+
+  "closings": [
+    "Logistical fine-print for application posts: 'Must be based in NYC or willing to relocate.'",
+    "Epigrammatic better-than construction: 'We'd rather be surrounded by people who make us better than sit in a room that makes us look important.'",
+    "Bold forward prediction: 'Mark my words, by next year, everyone will know his name.'",
+    "Algorithmic comment-redirect: 'Link to the full NY Post feature in the comments.'",
+    "Playful postscript (P.S.): human expansion that softens a flex",
+    "Specific-action CTA: 'send me a message with something you've created. That's the application.'"
+  ],
+
+  "formatting_tics": {
+    "paragraph_structure": "one-sentence paragraphs; heavy blank-line separation",
+    "dashes": "en-dash with spaces ' - ' for qualifier/aside, not em-dash (—)",
+    "emoji": "none observed",
+    "hashtags": "none observed",
+    "all_caps": "none observed",
+    "bullets": "sparingly; dash-prefixed, no emoji bullets; reserved for 'rules' or constraint lists",
+    "numbers": "numerals only, never spelled out; currency always attached ($20M, not 'twenty million')",
+    "name_format": "full name first mention, parenthetical context when useful: 'Josh Suggs ( Street interview Ads )'",
+    "colon_introductions": "frequent — 'This is our group:' / 'But here's what Jake really told me:' / 'But there were three insane rules:'"
+  },
+
+  "taboo": [
+    "hashtags",
+    "emoji (especially emoji-bullet lists)",
+    "corporate buzzwords: synergy, leverage, unpack, deep dive, space, paradigm, game-changer, disruptive",
+    "hedging: 'I think', 'maybe', 'perhaps', 'in my opinion'",
+    "generic tips-style content: '5 ways to X', 'the 7 habits of Y'",
+    "motivational platitudes: 'never give up', 'dream big'",
+    "self-congratulation openers: 'excited to announce', 'proud to share', 'I'm humbled'",
+    "LinkedIn cliché openers: 'I've been thinking', 'I'd like to share'",
+    "hedge-closings: 'agree?', 'thoughts?', 'what do you think?'",
+    "apology preambles: 'sorry for the long post'",
+    "abstractions without a number attached",
+    "em-dash (—); he uses spaced en-dash ' - ' instead",
+    "generic adjectives (amazing, incredible, awesome) without a specific metric nearby"
+  ],
+
+  "target_reader": {
+    "primary": "Young ambitious operators (22–32 y/o founders, operators, wannabe-founders) who want the NYC startup-insider identity and believe in proximity-driven success",
+    "secondary": "CEOs of larger companies reading as prospects — they see this voice and think 'I want my posts to sound like this'",
+    "tertiary": "Peers in creator-economy / media-agency world (Josh Suggs, Matthew Epstein, Oliver Brocato) — posts function as in-group flex",
+    "explicitly_not": "VCs as primary audience, enterprise corporate buyers, traditional B2B SaaS audiences, thought-leadership readers looking for frameworks"
+  },
+
+  "credibility_moves": [
+    "Verbatim client name-stack: 'backed by a16z, Sequoia, Marc Benioff, and Kevin Durant'",
+    "Dollar ladders: 'First month $20K. Second month $40K. Then $2M+ ARR.'",
+    "Third-party institutional validation: The New York Post (repeated twice), USC",
+    "Peer name-drops as status anchors: Josh Suggs, Sam Parr / Hampton, Matthew Epstein, Oliver Brocato / Tabs",
+    "Metric-burst fragments: '1,000 newsletter subscribers. 80% open rate. 45% click-through. Zero paid marketing.'",
+    "Age-as-flex: '22 y/o', 'early 20s', 'life's work at 19'",
+    "Anti-credibility credibility: 'working out of a gym', 'sweaty gym clothes' — substance proved by rejecting surface",
+    "Geographic specificity: 'West Side Highway', 'NYC, LA, and Miami', 'small town in Oregon'",
+    "Proximity-as-authority: 'who I was sitting next to', 'this guy standing next to me'"
+  ],
+
+  "structural_templates": [
+    {
+      "name": "Origin-arc flex post",
+      "beats": [
+        "underdog state with negation-triad",
+        "inciting incident (named person + channel + NYC setting)",
+        "quick action → outcome",
+        "scale reveal with dollar ladder",
+        "humble-flex thesis (attribution flip)",
+        "counter-conventional closing"
+      ],
+      "example_post_id": "media_mafia_ny_post"
+    },
+    {
+      "name": "Hire / recruiting post",
+      "beats": [
+        "declarative ask with contrarian twist",
+        "short imperative (one-line paragraph)",
+        "elaborated 'someone who' triad",
+        "credentialing drop ('We write these posts for...')",
+        "negation-negation-affirmation requirement stack",
+        "concrete reward as fragment triad ('Day one. On your wrist.')",
+        "viral expansion mechanic (referral reward)",
+        "meta-CTA ('send me a message with something you've created')",
+        "logistics line (NYC)",
+        "playful P.S."
+      ],
+      "example_post_id": "rolex_hire"
+    },
+    {
+      "name": "Peer anointing / friend-praise post",
+      "beats": [
+        "insider dismissal + institutional anointing",
+        "small-town / humble-origin setup",
+        "gap-insight noticed by subject",
+        "minimal action verb (made a group chat, started hosting)",
+        "rules/constraints list",
+        "fast-forward time jump",
+        "metric burst in fragments",
+        "direct quote with audacious claim",
+        "delusion-to-vision reframe",
+        "bold forward prediction closing"
+      ],
+      "example_post_id": "jake_sacks_gatsby"
+    }
+  ],
+
+  "voice_non_negotiables": [
+    "Every paragraph must contain either a number, a name, or a place — ideally two of three",
+    "Every flex must attribution-flip: wins come from proximity, hustle, or luck — never from inherent intelligence",
+    "Conventional wisdom must be named before being inverted ('Everyone tells you to get a real office. But we...')",
+    "Audacious claims get direct-quote treatment; narration handles scale and metric reveals",
+    "Transitions move via narrative pivots ('Then out of nowhere', 'Fast forward three years'), not logical connectors ('Therefore', 'As a result')",
+    "Payoff fragments are declarative, never interrogative",
+    "Specificity beats adjectives. '3 feet apart' beats 'close.' '$20M/Yr' beats 'successful.'",
+    "The ICP is the metric, not the impression count. Posts must optimize for pipeline, not virality (though virality is a welcome side effect)."
+  ]
+}
